@@ -4,7 +4,6 @@
 - Book Tickets
 - View Reservation
 - Cancel Tickets
-- code completed with success
 ## Language Used
 Python
 
